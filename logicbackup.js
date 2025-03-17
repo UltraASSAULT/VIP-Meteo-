@@ -1,6 +1,7 @@
+
 // Fetch weather data and display it
 const apiUrl = "https://api.weatherstack.com/current";
-const accessKey = "2fc9cdd29a70622df5e6aaa1c05f7a0a"; // Replace with your actual access key
+const accessKey = "a03eac5256957ed2a2c4e214d052d2c4"; // Replace with your actual access key
 
 const searchButton = document.getElementById("search-button");
 const cityInput = document.getElementById("city-input");
